@@ -22,7 +22,7 @@ global.skizo = "Your_Apikey" //ganti your_apikey dengan apikey kalian
 global.namebot = "Kreybot Pluginpair";
 global.title = "Kreybot PluginPair"
 global.sgc = "https://chat.whatsapp.com/CTOHHnQ8KWqEhUWNB3qUxb";
-global.isPairing = false; //Mau pake pairing? true = idup, false = mati
+global.isPairing = true; //Mau pake pairing? true = idup, false = mati
 global.sig = "https://chat.whatsapp.com/CnkVILeaMQP6v1c5xS9nvq";
 global.swa = "wa.me/6281252983184";
 global.version = "5.0";
